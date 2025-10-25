@@ -19,7 +19,7 @@ Include tre pagine principali:
 
 ## Tecnologie utilizzate
 
-- **HTML** e **CSS**
+- **HTML5** e **CSS3**
 - **SASS/SCSS** per gestione avanzata degli stili
 - **Bootstrap 5** per layout e componenti responsive
 - **JavaScript** soltanto per modulo contatti
