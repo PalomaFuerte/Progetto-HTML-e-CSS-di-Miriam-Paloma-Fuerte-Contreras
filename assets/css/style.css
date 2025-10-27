@@ -143,11 +143,12 @@ nav a:hover {
 
 @media (min-width: 992px) {
   .bio-panel {
-    width: 360px;
+    max-width: 700px;
+    width: 100%;
     padding: 3rem;
   }
   .bio-hero {
-    height: calc(100vh - 10px);
+    height: 100vh;
   }
 }
 .bio-pic-vertical {
